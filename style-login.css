@@ -1,0 +1,227 @@
+*{
+	margin-top: 0;
+	margin-right: 0;
+	margin-left: 0;
+	margin-bottom: 0;
+	padding: 0;
+	box-sizing: border-box;
+	height: auto;
+}
+.exit-btn{
+	cursor: not-allowed;
+	width: 20px;
+	display: block;
+	background-color: #F3F3F3;
+	box-shadow: inset 0px 0px;
+	
+
+	
+	
+}
+	input{
+
+    border-radius: 5px;
+
+    border: white;
+
+    display: inline;
+
+    width:100%;
+
+}
+
+.col-2{
+
+    height: 2px;
+
+}
+
+
+
+.dicript{
+
+	color: green;  
+
+	direction: ltr;  
+
+	display: inline; 
+
+	padding-right: 300px; 
+
+	padding-top: -30px;
+
+	
+
+}
+
+
+
+input[type="radio"]{
+	display: inline-block;
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+}
+
+.col-9 label{
+	margin-left: 200px;
+	margin-bottom: 2px;
+	
+
+	
+}
+
+
+
+
+
+.col-8{
+
+   height: 8px;
+
+
+
+}
+
+.col-9{
+	padding-left: 8px;
+	display: flex;
+	padding-right: 55px;
+	margin-right: rem;
+	margin-bottom: 0rem;
+	padding-bottom: 50px;
+	sizing: content-box;
+	box-sizing: content-box;
+	max-height: rem;	
+
+}
+.col-9 input{
+	padding-right: 0px;
+	display: inline;
+	sizing: inherit;
+	
+	box-sizing: inherit;
+	width: 70px;
+	margin-right: rem;
+	max-width: rem;
+}
+
+.no-link{
+	color: black;
+	font-weight: 300;
+	display: block;
+	width: 650px;
+	min-height: 30px;
+	max-height: 0px;
+	height: 30px;
+}
+.col-11 input{
+	cursor: alias;
+	width: 600px;
+	height: 30px;
+	
+	
+}
+.login{
+	cursor: pointer;
+	width: 600px;
+	height: 40px;
+	border: white;
+	border-radius: 20px;
+	background-color: #2D313C;
+	color: #FFFFFF;
+	margin-bottom: 20px;
+	
+}
+.col-12{
+	display: block;
+}
+.hr-1{
+	text-align: center;
+	margin-right: 23rem;
+	display: block;
+	padding-bottom: 1px;
+}
+.hr-2{
+	margin-left: 23rem;
+	display: block;
+	padding-top: px;
+	margin-top: px;
+	margin-bottom: px;
+	padding-bottom: 1px;
+}
+.hr-2 ::before{
+	
+}
+.login-2{
+	width: 600px;
+	cursor: pointer;
+	height: 40px;
+	border: #ADADAD;
+	border:medium;
+	border-radius: 20px;
+	background: #FFFFFF;
+	color: #636363;
+	margin-top: 20px;
+	box-shadow: 0px 0px #FFFFFF;
+	
+	text-shadow: 0px 0px #FFFFFF;
+
+	
+}
+.mmm{
+	
+}
+
+lable{
+
+	direction: rtl;
+
+	text-align: right;
+
+}
+
+body {
+	min-height: 80vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #FFFCFC;
+	font-family: "B Mitra","Century";
+	margin-bottom: 100px;
+	padding-bottom: 950px;
+	margin-right: px;
+	padding-right: px;
+}
+.p2{
+	margin-top: px;
+	padding-top: 2rem;
+	margin-bottom: px;
+	color: #636363;
+	
+	
+}
+
+a{
+	text-decoration: none;
+}
+.p3{
+	
+}
+.id {
+}
+.class {
+	display: block;
+	box-sizing: content-box;
+	
+}
